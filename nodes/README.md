@@ -1,0 +1,1 @@
+place your node files here. I prefer to use a nodefile instead of using the opscode gui.
