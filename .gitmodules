@@ -1,0 +1,3 @@
+[submodule "cookbooks/bash"]
+	path = cookbooks/bash
+	url = git@github.com:mszoernyi/chef-bash.git
