@@ -1,3 +1,42 @@
 [submodule "cookbooks/bash"]
 	path = cookbooks/bash
 	url = git@github.com:mszoernyi/chef-bash.git
+[submodule "cookbooks/fail2ban"]
+	path = cookbooks/fail2ban
+	url = git@github.com:mszoernyi/chef-fail2ban.git
+[submodule "cookbooks/chef-rvm_passenger"]
+	path = cookbooks/chef-rvm_passenger
+	url = git@github.com:mszoernyi/chef-rvm_passenger.git
+[submodule "cookbooks/chef-vim"]
+	path = cookbooks/chef-vim
+	url = git@github.com:mszoernyi/chef-vim.git
+[submodule "cookbooks/chef-users"]
+	path = cookbooks/chef-users
+	url = git@github.com:mszoernyi/chef-users.git
+[submodule "cookbooks/chef-sudo"]
+	path = cookbooks/chef-sudo
+	url = git@github.com:mszoernyi/chef-sudo.git
+[submodule "cookbooks/sudo"]
+	path = cookbooks/sudo
+	url = git@github.com:mszoernyi/chef-sudo.git
+[submodule "cookbooks/users"]
+	path = cookbooks/users
+	url = git@github.com:mszoernyi/chef-users.git
+[submodule "cookbooks/vim"]
+	path = cookbooks/vim
+	url = git@github.com:mszoernyi/chef-vim.git
+[submodule "cookbooks/rvm_passenger"]
+	path = cookbooks/rvm_passenger
+	url = git@github.com:mszoernyi/chef-rvm_passenger.git
+[submodule "cookbooks/rvm"]
+	path = cookbooks/rvm
+	url = git@github.com:mszoernyi/chef-rvm.git
+[submodule "cookbooks/ssh"]
+	path = cookbooks/ssh
+	url = git@github.com:mszoernyi/chef-ssh.git
+[submodule "cookbooks/gitosis"]
+	path = cookbooks/gitosis
+	url = git@github.com:mszoernyi/chef-gitosis.git
+[submodule "cookbooks/git"]
+	path = cookbooks/git
+	url = git@github.com:mszoernyi/chef-git.git

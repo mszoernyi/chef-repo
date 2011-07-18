@@ -1,0 +1,7 @@
+.chef/*
+.rake_test_cache
+.DS_Store
+certificates/*
+data_bags/*
+nodes/*
+roles/*
